@@ -98,3 +98,7 @@ nav {
     transform: translateY(0rem);
   }
 }
+
+.card .card-image {
+  min-height: 180px;
+}
